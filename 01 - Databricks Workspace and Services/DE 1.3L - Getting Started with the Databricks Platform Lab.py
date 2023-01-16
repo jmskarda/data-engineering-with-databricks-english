@@ -67,7 +67,7 @@
 # MAGIC   1. **`name = "John"`**
 # MAGIC   2. **`print(f"Hello {name}")`**
 # MAGIC   3. **`%run ./Notebook_B`**
-# MAGIC   4. **`print(f"Welcome back {full_name}`**
+# MAGIC   4. **`print(f"Welcome back {full_name}")`**
 # MAGIC 
 # MAGIC **`Notebook_B`** has only one commands:
 # MAGIC   1. **`full_name = f"{name} Doe"`**
